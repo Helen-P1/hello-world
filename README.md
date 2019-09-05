@@ -1,2 +1,2 @@
 # hello-world
-This is a practice repository.
+This is the bit where I write a bit about myself.
